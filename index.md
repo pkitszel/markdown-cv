@@ -37,6 +37,9 @@ designing, development, maintenance and packaging of software used for accelerat
 ### Project A - C, FreeRTOS, saleae logic analyser
 diagnosing and troubleshooting software, firmware & hardware faults of esp32 microcontroller in audio industry. Software transfer protocol reimplementation and adjustments for a new communication channel. Abstracting file system over WIFI.
 
+### Project AED - C, C++, mbed, STM32
+software development as a member of R&D team in Acoustic Event Detection project
+
 ### Project H - C++14, python3, Tensorflow2
 bugfixing and development of library of an AI-related algorithms
 
