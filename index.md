@@ -1,91 +1,84 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Curriculum vitae of Przemek Kitszel
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Przemek Kitszel
+Problem Solver and Software Developer
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+  <a href="pkitszel@gmail.com">pkitszel@gmail.com</a>
+
+  <a href="https://github.com/pkitszel">https://github.com/pkitszel</a>
+
+  <a href="https://github.com/Komosa">https://github.com/Komosa</a>
 </div>
 
-
-## Currently
-
-Standing on the shoulders of giants
+## About me
+I like analytic challenges, algorithmic tasks, system design, troubleshooting. I always strive to be accurate and focus on the right problem, yet I easily immerse myself in a techincal details. Tasks that require more time to accomplish don't bore me. I find myself very efficient both working in a group and when dealing with my work solo. I also look for opportunities to build deep understanding of new technologies.
 
 ### Specialized in
+C++ (up to C++17), scripting (bash, awk), C in low level projects, git, go, Linux, algorithms
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
+### Other tools used
+Agile, Cmake, Gerrit, Gnuplot, Gradle, Graph Theory, Jira, Network protocols, Make, Protobuf, Python, Qt, Reviewboard, Unit Tests
 
 
-## Education
+#### Experience - Current Position
 
-`1654-1660`
-__The King's School, Grantham.__
+# C++ Developer @ Solwit - `since AUG 2016`
+## Project G - C++17, Intel Vtune, AVX2
+CNN algorithms implementation and fine tuning with usage of AVX2 intrinisics;
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+SSE4.2 variant development time was significantly decreased thanks to code-transforming script.
 
-- Sizar
+## Project V - C++, C, Linux Kernel, bash
+designing, development, maintenance and packaging of software used for accelerating computations on dedicated extension cards
+incl. maintaining a set of patches for Linux kernels (upstreamed a key patch to mainline kernel) and developing Linux drivers,
+analysing and solving complex engineering problems, creating functional design based on the requirements
+and leading the development team.
 
-`1667 - death`
-__Trinity College, Cambridge__
+## Project A - C, FreeRTOS, saleae logic analyser
+diagnosing and troubleshooting software, firmware & hardware faults of an esp32 microcontroller in audio industry.
+Software transfer protocol reimplementation and adjustments for a new communication channel.
+Abstracting file system over WIFI.
 
-- Fellow
+## Project AED - C, C++, mbed, STM32
+software development as a member of the R&D team in the Acoustic Event Detection project
 
+## Project H - C++14, python3, Tensorflow2
+bugfixing and development of a library of AI-related algorithms
 
+## Project S - C++, gradle, ansible, openssl, nodejs, python, scala, java
+development and maintenance of multiple backend services for attestation and provisioning of cryptography related services. Troubleshooting database, network, hardware modules and software interaction
 
-## Awards
+<div style="page-break-after: always;"></div>
 
-`2012`
-President, *Royal Society*, London, UK
+#### Experience - Former Positions
+## C++ Developer @ Dynatrace `(former: Compuware) - APR 2013 - APR 2016`
 
-Associate, *French Academy of Science*, Paris, France
+development of C++ application for sniffing network traffic, including writing code (with tests), making reviews, troubleshooting & fixing bugs, collecting and analyzing diagnostic stats, designing traffic analyzers (TPC layer), working with Npcap (Windows network driver); small tools for log analyzing in Go
 
+## C++ Developer @ Compuware - `JUL 2012 - AUG 2012`
+working on a tool to remotely collect diagnostics of our product from client machines; working with a build system
 
+## Part Time Teacher @ 5th High School, Gdańsk - `2010 - 2013`
+algorithmic classes preparing students for competitive programming contests
 
-## Publications
+#### Education
+## Engineering in Computer Science @ Gdańsk University of Technology - `2009 - 2013`
+Max Grades: Programming Practice (Best score on Year), Algorithms and Data Structures (BoY), Discrete Math (BoY), Basics of Algorithms Analysis (BoY), Graph Algorithms (BoY), Digital Systems, Embedded Systems, Choosen Algorithmic and Technological Problems
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+Individual Education Program - Max Grades: Graphs and Networks Theory, Advanced Algorithms, Combinatorics Algorithms, Operational Research, Basics of Cryptography
 
-### Journals
+## Achievements
+37th (2013), 84th (2012), and 71st (2011) place in Algorithmics Engagements ("Potyczki Algorytmiczne")
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+156 IQ score in official MENSA intelligence tests
 
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
+## Other
+Driver licence;
+English language user
 
 
 <!-- ### Footer
-
-Last updated: May 2013 -->
-
-
+Last updated: Jan 2021 -->
