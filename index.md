@@ -23,7 +23,7 @@ I find myself very efficient both when dealing with my work solo and when workin
 ### Specialized in
 C, C++, scripting (bash, awk), git, go, Linux, algorithms
 
-#### Experience - Current Position
+xxxx Experience - Current Position
 # Linux Driver Developer @ Intel - `since APR 2022`
 ## Network Driver - Linux Kernel, C, +build system, Driver Maintainer
 development, maintenance, bugfixing, and code review of both upstream (inbox/intree) and out-of-tree network drivers.
@@ -32,7 +32,7 @@ Creation of "compat generator", what abstracts out details of differences betwee
 Fixing buildsystem.
 Bug reports and fixes to outside projects.
 
-#### Experience - Former Positions
+xxxx Experience - Former Positions
 # C++ Developer @ Solwit - `AUG 2016 - MAR 2022`
 ## Project G - C++17, Intel Vtune, AVX2
 CNN algorithms implementation and fine tuning with usage of AVX2 intrinsics;
@@ -70,7 +70,7 @@ working on a tool to remotely collect diagnostics of our product from client mac
 ## Part Time Teacher @ 5th High School, Gdańsk - `2010 - 2013`
 algorithmic classes preparing students for competitive programming contests
 
-#### Education
+xxxx Education
 ## Engineering in Computer Science @ Gdańsk University of Technology - `2009 - 2013`
 Max Grades: Programming Practice (Best score on Year), Algorithms and Data Structures (BoY), Discrete Math (BoY), Basics of Algorithms Analysis (BoY), Graph Algorithms (BoY), Digital Systems, Embedded Systems, Chosen Algorithmic and Technological Problems
 
